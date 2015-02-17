@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;&apos; to &apos;us.tschudi.cda.Main.storeSomeToXML()&apos;&#x0D;&#x0A;- Original project: &apos;CDA Analysis&apos;&#x0D;&#x0A;- Destination element: &apos;us.tschudi.cda.Main.storeSomeToXML()&apos;&#x0D;&#x0A;- Original element: &apos;us.tschudi.cda.Main.updateRankings()&apos;&#x0D;&#x0A;- Textual move only&#x0D;&#x0A;- Update references to refactored element" description="Move method" destination="/src&lt;us.tschudi.cda{Main.java[Main~storeSomeToXML" element1="/src&lt;us.tschudi.cda{Main.java[Main~updateRankings" flags="589830" id="org.eclipse.jdt.ui.move" members="1" policy="org.eclipse.jdt.ui.moveMembers" stamp="1396663264469" version="1.0"/>
+</session>

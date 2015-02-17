@@ -1,0 +1,18 @@
+INDEX VERSION 1.127+/home/stschudi/Dropbox/Programming/Debate/.metadata/.plugins/org.eclipse.jdt.core
+3215851532.index
+277005110.index
+4066111595.index
+762872745.index
+2209329283.index
+3020966137.index
+1555774126.index
+2830949584.index
+2176739519.index
+3866885472.index
+4291889366.index
+819181705.index
+1727080457.index
+4294089994.index
+1034148397.index
+1925221241.index
+3589817117.index

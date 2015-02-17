@@ -1,0 +1,2356 @@
+2013-1-12 Varsity
+4760
+The government should not fund reconstruction of private property after natural disasters. 
+Right
+Barlow Aldershof/O'Conno
+Barlow
+Sam Aldershof
+Brendan O'Connor
+W AFF
+GREERSMM
+Del Genio,
+25 4
+26 1
+L Neg
+NEWCGAAC
+Hamre, Mar
+26 4
+27 3
+W AFF
+RIDGCBJM
+Rieke Hans
+25 3
+26 1
+2-1 155.00
+ 16.00
+ 76.00 11.00
+ 79.00 5.00
+Barlow Coppinger/Marzaro
+Barlow
+Brendan Coppinger
+Nicolo Marzaro
+W AFF
+STLUSAPR
+Ryan, Dani
+26 2
+28 1
+L Neg
+GREERSMM
+Cohen, Kur
+26 4
+27 3
+W AFF
+GREESPJW
+Del Genio,
+29 1
+28 2
+2-1 164.00
+ 13.00
+ 81.00 7.00
+ 83.00 6.00
+Barlow Cummiskey/D'Agost
+Barlow
+Cormac Cummiskey
+Cooper D'Agostino
+W AFF
+NEWCDDAG
+Madeson, M
+28 2
+28 1
+W Neg
+GREESRRM
+Ryan, Dani
+24 3
+25 2
+L AFF
+GREENAMB
+Abhiraman
+27 4
+28 3
+2-1 160.00
+ 15.00
+ 79.00 9.00
+ 81.00 6.00
+Barlow Curto/Freeman
+Barlow
+Brooke Curto
+David Freeman
+L Neg
+NEWCEDAJ
+Juneja, Vi
+25 3
+24 4
+W AFF
+KINGLGAG
+Abhiraman
+26 2
+28 1
+W Neg
+GREERSMM
+Marsh Stua
+26 4
+27 1
+2-1 156.00
+ 15.00
+ 77.00 9.00
+ 79.00 6.00
+Barlow Goldstine/Osika
+Barlow
+Carl Goldstine
+Stephen Osika
+L Neg
+RIDGCBJM
+Hamre, Mar
+25 4
+25 2
+L AFF
+KINGSBJS
+Madeson, M
+23 4
+25 2
+L Neg
+STLUSAPR
+Juneja, Vi
+24 4
+25 3
+0-3 147.00
+ 19.00
+ 72.00 12.00
+ 75.00 7.00
+Barlow Lewson/Ryng
+Barlow
+Ben Lewson
+Caroline Ryng
+W Neg
+KINGLGAG
+Cohen, Kur
+29 1
+28 2
+W AFF
+RIDGRCOJ
+Rieke Hans
+28 1
+27 2
+L AFF
+RIDGCBJG
+Johnson Aa
+28 2
+27 3
+2-1 167.00
+ 11.00
+ 85.00 4.00 2nd Spkr
+ 82.00 7.00
+Barlow Peterson/Lightman
+Barlow
+Nicole Peterson
+Hunter Lightman
+L Neg
+GREESSGI
+Abhiraman
+23 4
+27 3
+W AFF
+RIDGCBJM
+Del Genio,
+26 3
+28 1
+L AFF
+GREEAMOS
+Cohen, Kur
+26 4
+27 1
+1-2 157.00
+ 16.00
+ 75.00 11.00
+ 82.00 5.00
+Barlow Tower/Von Dwingel
+Barlow
+Will Tower
+Harrison Von Dwingelo
+L AFF
+RIDGDBEC
+Rieke Hans
+26 4
+26 3
+W Neg
+NEWCDDAG
+Marsh Stua
+26 2
+26 1
+L Neg
+GREESRRM
+Madeson, M
+27 4
+28 3
+1-2 159.00
+ 17.00
+ 79.00 10.00
+ 80.00 7.00
+Greenwich Abbott/Baptist
+Greenwich
+Nick Abbott
+Matthew Baptist
+W AFF
+NEWCGAAC
+Streams Ev
+27 3
+27 2
+W Neg
+STLUSAPR
+Lewson Dav
+26 1
+25 3
+W Neg
+BARLCCCD
+Abhiraman
+29 1
+28 2
+3-0 162.00
+ 12.00
+1st Seed
+ 82.00 5.00
+ 80.00 7.00
+Greenwich Ma/Scharfman
+Greenwich
+Andrew Ma
+Olivia Scharfman
+L Neg
+RIDGCBJG
+Lewson Dav
+25 4
+25 2
+W AFF
+KINGADCR
+Streams Ev
+26 2
+27 1
+W Neg
+BARLNPHL
+Cohen, Kur
+27 3
+27 2
+2-1 157.00
+ 14.00
+ 78.00 9.00
+ 79.00 5.00
+Greenwich Pevsner/Wang
+Greenwich
+Spencer Pevsner
+Julia Wang
+W Neg
+KINGSBJS
+Brennan El
+24 3
+25 1
+L AFF
+NEWCEDAJ
+Cannan, Be
+24 4
+25 2
+L Neg
+BARLBCNM
+Del Genio,
+27 3
+27 4
+1-2 152.00
+ 17.00
+ 75.00 10.00
+ 77.00 7.00
+Greenwich Rieke/Murray
+Greenwich
+Shira Rieke
+Rebecca Murray
+W Neg
+RIDGRCOJ
+Marsh Stua
+26 2
+27 1
+L AFF
+BARLCCCD
+Ryan, Dani
+22 4
+26 1
+W AFF
+BARLWTHV
+Madeson, M
+28 1
+28 2
+2-1 157.00
+ 11.00
+ 76.00 7.00
+ 81.00 4.00
+Greenwich Savitz/Iskanda
+Greenwich
+Samuel Savitz
+Gabriel Iskandar
+W AFF
+BARLNPHL
+Abhiraman
+28 1
+27 2
+W Neg
+RIDGDBEC
+Coppinger
+26 2
+26 3
+L Neg
+NEWCEDAJ
+Streams Ev
+24 2
+24 4
+2-1 155.00
+ 14.00
+ 78.00 5.00
+ 77.00 9.00
+Greenwich Savitz/Russell
+Greenwich
+Faran Savitz
+Peter Russell
+L Neg
+KINGADCR
+Coppinger
+24 2
+24 4
+L AFF
+RIDGCBJG
+Brennan El
+24 3
+24 2
+W Neg
+NEWCDDAG
+Cannan, Be
+26 3
+27 1
+1-2 149.00
+ 15.00
+ 74.00 8.00
+ 75.00 7.00
+Greenwich Shavel/MacDoug
+Greenwich
+Robby Shavel
+Marley MacDougall
+L Neg
+BARLSABO
+Del Genio,
+25 3
+25 2
+W AFF
+BARLBCNM
+Cohen, Kur
+27 2
+27 1
+L AFF
+BARLBCDF
+Marsh Stua
+26 3
+26 2
+1-2 156.00
+ 13.00
+ 78.00 8.00
+ 78.00 5.00
+King Blair/Silberfein
+King
+Spencer Blair
+Joshua Silberfein
+L AFF
+GREESPJW
+Brennan El
+25 2
+23 4
+W Neg
+BARLCGSO
+Madeson, M
+26 1
+24 3
+L Neg
+NEWCGAAC
+Coppinger
+25 3
+23 4
+1-2 146.00
+ 17.00
+ 76.00 6.00
+ 70.00 11.00
+King Del Genio/Ryan
+King
+Ann Del Genio
+Caroline Ryan
+W AFF
+GREEFSPR
+Coppinger
+24 3
+25 1
+L Neg
+GREEAMOS
+Streams Ev
+25 4
+25 3
+W Neg
+RIDGDBEC
+Hansel, St
+28 1
+26 4
+2-1 153.00
+ 16.00
+ 77.00 8.00
+ 76.00 8.00
+King Giannetti/Gottlin
+King
+Lucas Giannetti
+Alexandra Gottlin
+L AFF
+BARLBLCR
+Cohen, Kur
+22 4
+25 3
+L Neg
+BARLBCDF
+Abhiraman
+24 4
+25 3
+W Neg
+RIDGRCOJ
+Brennan El
+23 2
+24 1
+1-2 143.00
+ 17.00
+ 69.00 10.00
+ 74.00 7.00
+NCanaan Abhiraman/Cohen
+New Canaan
+Gita Abhiraman
+Alexandra Cohen
+L Neg
+GREENAMB
+Streams Ev
+28 1
+25 4
+W AFF
+BARLSABO
+Hamre, Mar
+29 1
+27 2
+W AFF
+KINGSBJS
+Coppinger
+28 1
+26 2
+2-1 163.00
+ 11.00
+ 85.00 3.00 1st Spkr
+ 78.00 8.00
+NCanaan Dyakov/Graham
+New Canaan
+Daniel Dyakov
+Alison Graham
+L Neg
+BARLCCCD
+Madeson, M
+25 3
+24 4
+L AFF
+BARLWTHV
+Marsh Stua
+26 3
+25 4
+L AFF
+GREEFSPR
+Cannan, Be
+26 2
+24 4
+0-3 150.00
+ 20.00
+ 77.00 8.00
+ 73.00 12.00
+NCanaan Dyakova/Jameson
+New Canaan
+Ekaterina Dyakova
+Abbie Jameson
+W AFF
+BARLBCDF
+Juneja, Vi
+26 2
+27 1
+W Neg
+GREESPJW
+Cannan, Be
+25 3
+26 1
+W AFF
+GREESSGI
+Streams Ev
+25 1
+24 3
+3-0 153.00
+ 11.00
+ 76.00 6.00
+ 77.00 5.00
+Ridgefield Ballard/Greenb
+Ridgefield
+Chad Ballard
+Jason Greenberg
+W AFF
+GREEAMOS
+Lewson Dav
+26 1
+25 3
+W Neg
+GREEFSPR
+Brennan El
+25 1
+24 4
+W Neg
+BARLBLCR
+Johnson Aa
+30 1
+26 4
+3-0 156.00
+ 14.00
+2nd Seed
+ 81.00 3.00
+ 75.00 11.00
+Ridgefield Blum/Cohen
+Ridgefield
+Dani Blum
+Eliana Cohen
+W Neg
+BARLWTHV
+Rieke Hans
+27 2
+28 1
+L AFF
+GREESSGI
+Coppinger
+25 4
+26 1
+L AFF
+KINGADCR
+Hansel, St
+26 3
+27 2
+1-2 159.00
+ 13.00
+ 78.00 9.00
+ 81.00 4.00
+Ridgefield Brown/Madeson
+Ridgefield
+Chris Brown
+Jake Madeson
+W AFF
+BARLCGSO
+Hamre, Mar
+26 1
+25 3
+L Neg
+BARLNPHL
+Del Genio,
+27 2
+26 4
+L Neg
+BARLSABO
+Rieke Hans
+25 2
+25 4
+1-2 154.00
+ 16.00
+ 78.00 5.00
+ 76.00 11.00
+Ridgefield Carey/Jones
+Ridgefield
+Ryan Carey
+Ollie Jones
+L AFF
+GREESRRM
+Marsh Stua
+26 3
+25 4
+L Neg
+BARLBLCR
+Rieke Hans
+24 4
+25 3
+L AFF
+KINGLGAG
+Brennan El
+23 4
+23 3
+0-3 146.00
+ 21.00
+ 73.00 11.00
+ 73.00 10.00
+St. Luke's Akole/Robinson
+St. Luke's
+Sheetal Akole
+Powell Robinson
+L Neg
+BARLBCNM
+Ryan, Dani
+25 3
+24 4
+L AFF
+GREENAMB
+Lewson Dav
+25 4
+25 2
+W AFF
+BARLCGSO
+Juneja, Vi
+26 2
+27 1
+1-2 152.00
+ 16.00
+ 76.00 9.00
+ 76.00 7.00
+Class Abaaho & Clapis
+Hartford
+Yaw Abaaho
+Justin Clapis
+L Neg
+FarminBC
+Pryor John
+26 3
+25 4
+L AFF
+East Catholic LO
+Warner Eth
+23 4
+23 3
+L AFF
+Hamden HallAG
+Sherry, Ja
+24 4
+27 2
+0-3 148.00
+ 20.00
+ 73.00 11.00
+ 75.00 9.00
+Class Kennedy & Edrich
+Hartford
+Taylor Kennedy
+Franklin Edrich
+W Neg
+East Catholic WS
+Nick, Joel
+27 2
+28 1
+W AFF
+FarminBC
+Ockert, Pa
+26 2
+26 1
+L Neg
+SimsbuSG
+Walsh, Cat
+25 3
+26 2
+2-1 158.00
+ 11.00
+ 78.00 7.00
+ 80.00 4.00
+Class Oliveri & Rodri
+Hartford
+Nashaly Oliveri
+Mike Rodriguez
+L AFF
+PomperNB
+Sturges Mi
+24 4
+25 3
+W Neg
+Warde HH
+Scholfield
+26 3
+28 1
+L Neg
+FarminHR
+Uniacke Ki
+20 4
+22 3
+1-2 145.00
+ 18.00
+ 70.00 11.00
+ 75.00 7.00
+Class Suhaimi & Torres
+Hartford
+Azeem Suhaimi
+Emmanuel Torres
+W Neg
+Masuk MS
+Pease Maur
+25 1
+24 2
+L AFF
+XavierRM
+Nettleton,
+26 3
+25 4
+L Neg
+East Catholic GM
+Robison Cu
+26 2
+25 4
+1-2 151.00
+ 16.00
+ 77.00 6.00
+ 74.00 10.00
+East Catholic Goreshi & Marsden
+East Catholic
+Keeyan Ghoreshi
+Grant Marsden
+W AFF
+PlainfLG
+Nettleton,
+28 1
+26 3
+L Neg
+Hand CG
+Sirman, Ru
+27 4
+27 3
+W AFF
+HartfoST
+Robison Cu
+27 1
+25 3
+2-1 160.00
+ 15.00
+ 82.00 6.00
+ 78.00 9.00
+East Catholic Langlais & Ockert
+East Catholic
+Wesley Langlais
+J Ockert
+W AFF
+O.H. PCH
+Uniacke Ki
+29 2
+30 1
+W Neg
+HartfoAC
+Warner Eth
+26 2
+27 1
+W AFF
+Hamden HallHK
+Schmaling
+26 1
+24 3
+3-0 162.00
+ 10.00
+ 81.00 5.00
+ 81.00 5.00
+East Catholic Walker & Stalph
+East Catholic
+Michelle Walker
+Mason Stalph
+L AFF
+HartfoKE
+Nick, Joel
+25 4
+26 3
+W Neg
+XavierMC
+Robison Cu
+26 3
+27 2
+W Neg
+FarminHM
+Pease Maur
+27 1
+27 2
+2-1 158.00
+ 15.00
+ 78.00 8.00
+ 80.00 7.00
+Farm Bosma & Caruso
+Farmington
+Joan Bosma
+Francesca Caruso
+W AFF
+HartfoAC
+Pryor John
+28 1
+26 2
+L Neg
+HartfoKE
+Ockert, Pa
+25 3
+25 4
+L AFF
+Warde GM
+Hall, Dere
+26 2
+25 3
+1-2 155.00
+ 15.00
+ 79.00 6.00
+ 76.00 9.00
+Farm Green & Ruh
+Farmington
+Cal Green
+Zach Ruh
+W Neg
+Hamden HallAG
+McKay Eliz
+27 1
+26 2
+L AFF
+GlastoCP
+Pryor John
+27 4
+28 2
+W AFF
+PomperYB
+Petrakopou
+27 1
+26 3
+2-1 161.00
+ 13.00
+ 81.00 6.00
+ 80.00 7.00
+Farm Harris & Rath
+Farmington
+Jack Harris
+Swati Rath
+L AFF
+PomperSM
+Mariano Ke
+25 4
+27 1
+W Neg
+WetherWT
+Petrakopou
+26 3
+26 2
+W AFF
+HartfoOR
+Uniacke Ki
+23 2
+24 1
+2-1 151.00
+ 13.00
+ 74.00 9.00
+ 77.00 4.00
+Farm Horen & Muller
+Farmington
+Sam Horen
+Graham Muller
+W Neg
+GlastoCP
+Cohen, Jef
+26 2
+26 3
+L AFF
+Hamden HallLM
+Staph, Cli
+26 3
+26 4
+L AFF
+East Catholic WS
+Pease Maur
+26 3
+26 4
+1-2 156.00
+ 19.00
+ 78.00 8.00
+ 78.00 11.00
+Farm Le & Zarmsky
+Farmington
+Dana Le
+Sarah Zarmsky
+L Neg
+Warde ZK
+Warner Eth
+24 3
+22 4
+L AFF
+PomperYB
+Robison Cu
+26 2
+26 3
+W Neg
+PomperDM
+Pryor John
+28 1
+27 3
+1-2 153.00
+ 16.00
+ 78.00 6.00
+ 75.00 10.00
+Glast Brownell & Walsh
+Glastonbury
+Sarah Brownell
+Alexandra Walsh
+W Neg
+TrumbuLN
+Sherry, Ja
+28 1
+26 2
+L AFF
+NonnewDL
+Wetstone S
+24 3
+24 4
+W Neg
+NonnewBG
+Nick, Joel
+26 3
+28 1
+2-1 156.00
+ 14.00
+ 78.00 7.00
+ 78.00 7.00
+Glast Chowdhardy & Pease
+Glastonbury
+Kaitavjeet Chowdhardy
+Brendan Pease
+L AFF
+FarminHM
+Cohen, Jef
+27 1
+23 4
+W Neg
+FarminGR
+Pryor John
+30 1
+28 3
+W AFF
+NonnewDL
+Neville Ma
+25 2
+26 1
+2-1 159.00
+ 12.00
+ 82.00 4.00
+ 77.00 8.00
+H-X Brucher & Cannata
+Hand
+Blake Brucher
+Christian Cannata
+W AFF
+WetherWT
+Hall, Dere
+25 2
+26 1
+L Neg
+PomperNB
+Nick, Joel
+24 4
+26 2
+L AFF
+Warde CM
+McKay Eliz
+23 4
+24 3
+1-2 148.00
+ 16.00
+ 72.00 10.00
+ 76.00 6.00
+Hamden Hall Agarwal & Guttier
+Hamden Hall
+Ank Agarwal
+Juan Guttierez
+L AFF
+FarminGR
+McKay Eliz
+25 3
+24 4
+L Neg
+LoomisHR
+Spalla, Ho
+26 3
+25 4
+W Neg
+HartfoAC
+Sherry, Ja
+26 3
+28 1
+1-2 154.00
+ 18.00
+ 77.00 9.00
+ 77.00 9.00
+Hamden Hall Hansen & Kroop
+Hamden Hall
+Henry Hansen
+Colette Kroop
+W AFF
+SimsbuRS
+Spalla, Ho
+25 3
+28 2
+W Neg
+PlainfLG
+Uniacke Ki
+24 2
+25 1
+L Neg
+East Catholic LO
+Schmaling
+22 4
+25 2
+2-1 149.00
+ 14.00
+ 71.00 9.00
+ 78.00 5.00
+Hamden Hall Lindsay & Matin
+Hamden Hall
+Catherine Lindsay
+Anika Matin
+W AFF
+Warde HH
+Petrakopou
+27 2
+28 1
+W Neg
+FarminHM
+Staph, Cli
+28 1
+27 2
+W Neg
+Warde ZK
+Wetstone S
+27 1
+25 2
+3-0 162.00
+ 9.00
+ 82.00 4.00
+ 80.00 5.00
+Henry Cohen & Guo
+Hand
+Henry Cohen
+Cathy Guo
+W Neg
+PomperYB
+Neville Ma
+27 1
+25 3
+W AFF
+East Catholic GM
+Sirman, Ru
+28 2
+29 1
+W AFF
+NonnewVG
+Scholfield
+28 2
+29 1
+3-0 166.00
+ 10.00
+1st Seed
+ 83.00 5.00
+ 83.00 5.00
+Hand Cupp & Bastian
+Hand
+Lisa Chupp
+Andrew Bastian
+L AFF
+Warde CM
+Walsh, Cat
+26 4
+26 3
+W Neg
+Masuk WG
+Mariano Ke
+26 2
+27 1
+L AFF
+TrumbuLN
+Nettleton,
+25 4
+26 3
+1-2 156.00
+ 17.00
+ 77.00 10.00
+ 79.00 7.00
+Loomis Holloway & Rubin
+Loomis Chaffee
+Billy Holloway
+Leah Rubin
+L Neg
+NonnewVG
+Schmaling
+26 2
+25 3
+W AFF
+Hamden HallAG
+Spalla, Ho
+28 1
+27 2
+W AFF
+PomperSM
+Ockert, Pa
+28 1
+26 2
+2-1 160.00
+ 11.00
+ 82.00 4.00
+ 78.00 7.00
+Masuk Miller & Schrieber
+Masuk
+Eric Miller
+Michael Schrieber
+L AFF
+HartfoST
+Pease Maur
+24 3
+23 4
+L Neg
+Warde GM
+Neville Ma
+25 2
+22 4
+L Neg
+XavierMC
+Sturges Mi
+22 4
+26 2
+0-3 142.00
+ 19.00
+ 71.00 9.00
+ 71.00 10.00
+Masuk Woo & Glogan
+Masuk
+Jine Woo
+Chris Glogan
+L Neg
+XavierRM
+Wetstone S
+23 4
+24 3
+L AFF
+Hand CB
+Mariano Ke
+25 3
+23 4
+L AFF
+O.H. PCH
+Spalla, Ho
+25 4
+25 3
+0-3 145.00
+ 21.00
+ 73.00 11.00
+ 72.00 10.00
+Nonne Berry & Gorka
+Nonnewaug
+Jonas Berry
+Dea Gorka
+W AFF
+PomperDM
+Ockert, Pa
+27 2
+28 1
+L Neg
+SimsbuGS
+Schmaling
+25 3
+24 4
+L AFF
+GlastoBW
+Nick, Joel
+26 4
+27 2
+1-2 157.00
+ 16.00
+ 78.00 9.00
+ 79.00 7.00
+Nonne Doan & Lambert
+Nonnewaug
+Kali Doan
+Andrew Lambert
+L AFF
+SimsbuGS
+Robison Cu
+24 3
+23 4
+W Neg
+GlastoBW
+Wetstone S
+25 2
+25 1
+L Neg
+GlastoCP
+Neville Ma
+24 4
+25 3
+1-2 146.00
+ 17.00
+ 73.00 9.00
+ 73.00 8.00
+Nonne Varanko & Giordano
+Nonnewaug
+Anya Varanko
+Grace Giordano
+W AFF
+LoomisHR
+Schmaling
+28 1
+24 4
+W Neg
+PomperDM
+Walsh, Cat
+28 1
+26 2
+L Neg
+Hand CG
+Scholfield
+28 3
+27 4
+2-1 161.00
+ 15.00
+ 84.00 5.00 2nd Spkr
+ 77.00 10.00
+Plain Liebel & Gilleese
+Plainfield
+Matthew Liebel
+Francis Gilleese
+L Neg
+East Catholic GM
+Nettleton,
+27 2
+25 4
+L AFF
+Hamden HallHK
+Uniacke Ki
+22 3
+20 4
+L Neg
+Warde HH
+Cohen, Jef
+25 2
+24 3
+0-3 143.00
+ 18.00
+ 74.00 7.00
+ 69.00 11.00
+Platt Cruz & Halligan
+O.H. Platt
+Moriah Cruz
+Ryan Halligan
+L Neg
+East Catholic LO
+Uniacke Ki
+26 3
+25 4
+L AFF
+TrumbuLN
+Pease Maur
+25 4
+26 3
+W Neg
+Masuk WG
+Spalla, Ho
+28 1
+26 2
+1-2 156.00
+ 17.00
+ 79.00 8.00
+ 77.00 9.00
+Pomp Dinesh & Moskowitz
+Pomperaug
+Anjali Dinesh
+Mike Moskowitz
+L Neg
+NonnewBG
+Ockert, Pa
+26 3
+25 4
+L AFF
+NonnewVG
+Walsh, Cat
+24 3
+24 4
+L AFF
+FarminLZ
+Pryor John
+26 4
+27 2
+0-3 152.00
+ 20.00
+ 76.00 10.00
+ 76.00 10.00
+Pomp Nag & Breakstone
+Pomperaug
+Diya Nag
+Marlee Breakstone
+W Neg
+HartfoOR
+Sturges Mi
+28 1
+27 2
+W AFF
+H-X BC
+Nick, Joel
+26 3
+27 1
+L Neg
+SimsbuGS
+Sirman, Ru
+29 2
+29 4
+2-1 166.00
+ 13.00
+ 83.00 6.00
+ 83.00 7.00
+Pomp Niesbecki & Reilly
+Pomperaug
+Stephen Niesobecki
+Lauren Reilly
+W AFF
+Warde GM
+Robison Cu
+28 1
+26 3
+W Neg
+SimsbuRS
+Sherry, Ja
+28 1
+24 3
+L AFF
+XavierRM
+Warner Eth
+25 3
+23 4
+2-1 154.00
+ 15.00
+ 81.00 5.00
+ 73.00 10.00
+Pomp Sullivan & Monagan
+Pomperaug
+Joseph Sullivan
+Kevin Monagan
+W Neg
+FarminHR
+Mariano Ke
+27 2
+26 3
+L AFF
+Warde ZK
+Cohen, Jef
+24 4
+25 3
+L Neg
+LoomisHR
+Ockert, Pa
+25 4
+25 3
+1-2 152.00
+ 19.00
+ 76.00 10.00
+ 76.00 9.00
+Pomp Yang & Bowler
+Pomperaug
+Ruija Yang
+Mary Bowler
+L AFF
+Hand CG
+Neville Ma
+25 2
+22 4
+W Neg
+FarminLZ
+Robison Cu
+29 1
+24 4
+L Neg
+FarminGR
+Petrakopou
+26 2
+23 4
+1-2 149.00
+ 17.00
+ 80.00 5.00
+ 69.00 12.00
+Simsbury Gyurco & Shaw
+Simsbury
+Kevin Gyurco
+Matthew Shaw
+W Neg
+NonnewDL
+Robison Cu
+27 1
+27 2
+W AFF
+NonnewBG
+Schmaling
+27 1
+26 2
+W AFF
+PomperNB
+Sirman, Ru
+30 1
+29 3
+3-0 166.00
+ 10.00
+2nd Seed
+ 84.00 3.00 1st Spkr
+ 82.00 7.00
+Simsbury Rosadio & Schic
+Simsbury
+Eduardo Rosadio
+Serena Schick
+L Neg
+Hamden HallHK
+Spalla, Ho
+25 4
+27 1
+L AFF
+PomperNR
+Sherry, Ja
+23 4
+26 2
+W Neg
+WetherWT
+Robison Cu
+26 1
+25 3
+1-2 152.00
+ 15.00
+ 74.00 9.00
+ 78.00 6.00
+Simsbury Smits & Galle
+Simsbury
+Matthew Smits
+John Galle
+W AFF
+XavierMC
+Staph, Cli
+26 3
+28 1
+W Neg
+Warde CM
+Hall, Dere
+28 1
+26 4
+W AFF
+HartfoKE
+Walsh, Cat
+25 4
+27 1
+3-0 160.00
+ 14.00
+ 79.00 8.00
+ 81.00 6.00
+Trumbull Lobosco & Nagel
+Trumbull
+Christopher LoBosco
+Jason Nagel
+L AFF
+GlastoBW
+Sherry, Ja
+26 3
+23 4
+W Neg
+O.H. PCH
+Pease Maur
+27 1
+26 2
+W Neg
+Hand CB
+Nettleton,
+28 2
+29 1
+2-1 159.00
+ 13.00
+ 81.00 6.00
+ 78.00 7.00
+Warde Campbell & Murphy
+Warde
+Brandon Campbell
+Sara Murphy
+W Neg
+Hand CB
+Walsh, Cat
+26 2
+27 1
+L AFF
+SimsbuSG
+Hall, Dere
+26 3
+27 2
+W Neg
+H-X BC
+McKay Eliz
+26 2
+27 1
+2-1 159.00
+ 11.00
+ 78.00 7.00
+ 81.00 4.00
+Warde Gershberg & Minot
+Warde
+Xander Gershberg
+Hank Minot
+L Neg
+PomperNR
+Robison Cu
+25 4
+27 2
+W AFF
+Masuk MS
+Neville Ma
+23 3
+27 1
+W Neg
+FarminBC
+Hall, Dere
+24 4
+28 1
+2-1 154.00
+ 15.00
+ 72.00 11.00
+ 82.00 4.00
+Warde Harrison & Hernand
+Warde
+Pam Harrison
+Ana Hernandez
+L Neg
+Hamden HallLM
+Petrakopou
+26 3
+25 4
+L AFF
+HartfoOR
+Scholfield
+27 2
+25 4
+W AFF
+PlainfLG
+Cohen, Jef
+27 1
+23 4
+1-2 153.00
+ 18.00
+ 80.00 6.00
+ 73.00 12.00
+Warde Zarrilli & Kenny
+Warde
+Naomi Zarrilli
+Bailey Kenny
+W AFF
+FarminLZ
+Warner Eth
+25 2
+26 1
+W Neg
+PomperSM
+Cohen, Jef
+26 2
+27 1
+L AFF
+Hamden HallLM
+Wetstone S
+24 4
+25 3
+2-1 153.00
+ 13.00
+ 75.00 8.00
+ 78.00 5.00
+Wethers Weed & Turcote
+Wethersfield
+Melissa Weed
+James Turcotte
+L Neg
+H-X BC
+Hall, Dere
+23 4
+24 3
+L AFF
+FarminHR
+Petrakopou
+23 4
+26 1
+L AFF
+SimsbuRS
+Robison Cu
+23 4
+25 2
+0-3 144.00
+ 18.00
+ 69.00 12.00
+ 75.00 6.00
+Xavier Mortali & Clark
+Xavier
+Miles Mortali
+Nat Clark
+L Neg
+SimsbuSG
+Staph, Cli
+25 4
+27 2
+L AFF
+East Catholic WS
+Robison Cu
+25 4
+27 1
+W AFF
+Masuk MS
+Sturges Mi
+27 1
+25 3
+1-2 156.00
+ 15.00
+ 77.00 9.00
+ 79.00 6.00
+Xavier Root & Massaro
+Xavier
+Trevor Root
+Mike Massaro
+W AFF
+Masuk WG
+Wetstone S
+27 1
+26 2
+W Neg
+HartfoST
+Nettleton,
+29 1
+28 2
+W Neg
+PomperNR
+Warner Eth
+26 1
+26 2
+3-0 162.00
+ 9.00
+ 82.00 3.00
+ 80.00 6.00
+AITE Aronstein/Walas
+AITE
+Spencer Aronstein
+Bartek Walas
+L AFF
+WESTRSJB
+Jones, Tom
+26 2
+24 4
+L Neg
+WESTBDEW
+Gamberdell
+26 3
+26 2
+W Neg
+AMITEGKZ
+Litt Kenny
+28 1
+26 2
+1-2 156.00
+ 14.00
+ 80.00 6.00
+ 76.00 8.00
+AITE Cappetta/McLaughlin
+AITE
+Morgan Cappetta
+Jada McLaughlin
+W Neg
+WILTNKGM
+Shanahan,
+26 1
+21 4
+W AFF
+AMITEGKZ
+Fletcher,
+26 1
+23 4
+W Neg
+WILTJBEX
+Arons, Mrs
+29 1
+26 3
+3-0 151.00
+ 14.00
+ 81.00 3.00
+ 70.00 11.00
+AITE Conti/Witlin
+AITE
+Richie Conti
+Isaac Witlin
+W Neg
+AMITEGKZ
+Toteja, Mr
+27 1
+26 2
+L AFF
+WILTJBEX
+Schechter
+26 3
+25 4
+W AFF
+WILTMDSS
+Bourdeau,
+27 1
+26 3
+2-1 157.00
+ 14.00
+ 80.00 5.00
+ 77.00 9.00
+Amity Abbasi/Eng
+Amity
+Eeman Abbasi
+Jennifer Eng
+W AFF
+WESTPTJG
+Wallace Da
+27 1
+26 3
+W Neg
+WESTLSRK
+Jones, Tom
+27 1
+26 2
+W AFF
+DARICHCV
+Xie, Mrs.
+27 1
+26 4
+3-0 159.00
+ 12.00
+ 81.00 3.00
+ 78.00 9.00
+Amity Banka/Liang
+Amity
+Izabella Banka
+Brian Liang
+W AFF
+STAMPVYM
+Newman Eri
+27 1
+25 3
+L Neg
+WILTGGJK
+Toteja, Mr
+24 4
+25 3
+L AFF
+WESTBDEW
+Wallace Da
+24 4
+24 3
+1-2 149.00
+ 18.00
+ 75.00 9.00
+ 74.00 9.00
+Amity Dagan/Shi
+Amity
+Elliad Dagan
+Andrew Shi
+W Neg
+WILTPJJS
+Schwartz M
+28 1
+28 2
+W AFF
+DARIWTDP
+Pollack Mr
+25 3
+26 1
+W AFF
+DARIBLAW
+Toteja, Mr
+27 1
+25 3
+3-0 159.00
+ 11.00
+2nd Seed
+ 80.00 5.00
+ 79.00 6.00
+Amity Eitzer/Thomson
+Amity
+Arlo Eitzer
+Patricia Thomson
+L AFF
+DARIBLAW
+Schechter
+27 2
+25 4
+L Neg
+STAMSJDM
+Xie, Mrs.
+26 2
+25 3
+W Neg
+WESTMAJP
+Morest Cla
+24 1
+24 2
+1-2 151.00
+ 14.00
+ 77.00 5.00
+ 74.00 9.00
+Amity Giovanniello/Zakow
+Amity
+Elizabeth Giovanniello
+Kristin Zakoworotny
+L AFF
+AITERCIW
+Toteja, Mr
+25 3
+24 4
+L Neg
+AITEMCJM
+Fletcher,
+24 2
+24 3
+L AFF
+AITESABW
+Litt Kenny
+23 4
+25 3
+0-3 145.00
+ 19.00
+ 72.00 9.00
+ 73.00 10.00
+Amity Jiang/Sacco
+Amity
+Rebecca Jiang
+Matthew Sacco
+W AFF
+WESTJGAN
+Fletcher,
+25 1
+24 3
+L Neg
+DARICHCV
+Litt Kenny
+25 4
+26 2
+W AFF
+WILTGGJK
+Feehan, Ka
+24 2
+25 1
+2-1 149.00
+ 13.00
+ 74.00 7.00
+ 75.00 6.00
+Darien Fletcher/Pankowsk
+Darien
+Andrew Fletcher
+Ward Pankowski
+W AFF
+WILTGGJK
+Dagan Doro
+26 3
+27 1
+W Neg
+STAMPVYM
+Wallace Da
+27 1
+26 2
+L AFF
+WILTPWAS
+Pollack Mr
+23 4
+24 3
+2-1 153.00
+ 14.00
+ 76.00 8.00
+ 77.00 6.00
+Darien Graves/McKay
+Darien
+Katie Graves
+Kat McKay
+L Neg
+WILTPWAS
+Litt Kenny
+25 4
+27 3
+W AFF
+WESTMAJP
+Shanahan,
+21 3
+28 1
+L AFF
+WESTRSJB
+Newman Eri
+27 1
+25 4
+1-2 153.00
+ 16.00
+ 73.00 8.00
+ 80.00 8.00
+Darien Hecq/Van de Graf
+Darien
+Chris Hecq
+Cameron Van de Graf
+W Neg
+WESTMAJP
+Gamberdell
+28 1
+27 2
+W AFF
+AMITRJMS
+Litt Kenny
+27 1
+26 3
+L Neg
+AMITEAJE
+Xie, Mrs.
+26 2
+26 3
+2-1 160.00
+ 12.00
+ 81.00 4.00
+ 79.00 8.00
+Darien Lucas/Wolyneic
+Darien
+Brian Lucas
+Alec Wolyneic
+W Neg
+AMITAEPT
+Schechter
+26 3
+27 1
+L AFF
+WILTPJJS
+Arons, Mrs
+24 3
+25 4
+L Neg
+AMITEDAS
+Toteja, Mr
+26 2
+24 4
+1-2 152.00
+ 17.00
+ 76.00 8.00
+ 76.00 9.00
+Darien Toh/Phipps
+Darien
+Weng Cong Toh
+Doug Phipps
+W AFF
+WESTBDEW
+Xie, Mrs.
+26 2
+26 1
+L Neg
+AMITEDAS
+Pollack Mr
+24 4
+25 2
+L AFF
+WESTJGAN
+Jones, Tom
+25 4
+25 3
+1-2 151.00
+ 16.00
+ 75.00 10.00
+ 76.00 6.00
+Darien Wong/Morgan
+Darien
+Cameron Wong
+Reed Morgan
+W AFF
+STAMSJDM
+Pollack Mr
+24 2
+29 1
+W Neg
+WESTPTJG
+Morest Cla
+28 1
+27 2
+W Neg
+WILTRCRJ
+Shanahan,
+27 3
+29 1
+3-0 164.00
+ 10.00
+1st Seed
+ 79.00 6.00
+ 85.00 4.00 1st Spkr
+Stamford Jagtiani/Miler
+Stamford
+Suraj Jagtiani
+Devin Miller
+L Neg
+DARICWRM
+Pollack Mr
+23 4
+24 3
+W AFF
+AMITAEPT
+Xie, Mrs.
+25 4
+27 1
+L AFF
+WESTBBBP
+Gamberdell
+25 4
+26 3
+1-2 150.00
+ 19.00
+ 73.00 12.00
+ 77.00 7.00
+Stamford Senatore/Hooja
+Stamford
+Marc Senatore
+Gunjan Hooja
+L Neg
+WILTRCRJ
+Feehan, Ka
+23 4
+24 3
+W AFF
+WILTMDSS
+Dagan Doro
+26 2
+27 1
+W AFF
+WILTPJJS
+Schechter
+26 4
+28 1
+2-1 154.00
+ 15.00
+ 75.00 10.00
+ 79.00 5.00
+Stamford Vibien/Mansukha
+Stamford
+Philippe Vibien
+Yash Mansukhani
+L Neg
+AMITIBBL
+Newman Eri
+26 2
+25 4
+L AFF
+DARIAFWP
+Wallace Da
+25 3
+24 4
+L Neg
+WESTLSRK
+Fletcher,
+25 4
+25 3
+0-3 150.00
+ 20.00
+ 76.00 9.00
+ 74.00 11.00
+Westhill Arons/Pollack
+Westhill
+Matt Arons
+Johnathan Pollack
+L AFF
+DARICHCV
+Gamberdell
+26 3
+26 4
+L Neg
+DARIKGKM
+Shanahan,
+20 4
+22 2
+L AFF
+AMITAEPT
+Morest Cla
+23 4
+23 3
+0-3 140.00
+ 20.00
+ 69.00 11.00
+ 71.00 9.00
+Westhill Bautista/Pollac
+Westhill
+Brittany Bautista
+Brian Pollack
+W Neg
+WILTMDSS
+Morest Cla
+26 2
+28 1
+L AFF
+WILTRCRJ
+Bourdeau,
+27 4
+28 2
+W Neg
+STAMSJDM
+Gamberdell
+27 2
+28 1
+2-1 164.00
+ 12.00
+ 80.00 8.00
+ 84.00 4.00 2nd Spkr
+Westhill Darling/William
+Westhill
+Bradley Darling
+Emily Williams
+L Neg
+DARIWTDP
+Xie, Mrs.
+25 4
+25 3
+W AFF
+AITESABW
+Gamberdell
+26 4
+27 1
+W Neg
+AMITIBBL
+Wallace Da
+25 2
+26 1
+2-1 154.00
+ 15.00
+ 76.00 10.00
+ 78.00 5.00
+Westhill Gallant/Newman
+Westhill
+Jason Gallant
+Andrew Newman
+L Neg
+AMITRJMS
+Fletcher,
+24 4
+24 2
+W AFF
+WILTNKGM
+Newman Eri
+26 3
+27 2
+W Neg
+DARIWTDP
+Jones, Tom
+26 2
+27 1
+2-1 154.00
+ 14.00
+ 76.00 9.00
+ 78.00 5.00
+Westhill Schechter/Katz
+Westhill
+Lauren Schechter
+Rachel Katz
+L Neg
+WILTJBEX
+Bourdeau,
+25 3
+25 4
+L AFF
+AMITEAJE
+Jones, Tom
+25 3
+24 4
+W AFF
+STAMPVYM
+Fletcher,
+27 1
+26 2
+1-2 152.00
+ 17.00
+ 77.00 7.00
+ 75.00 10.00
+Westhill Silk/Burbank
+Westhill
+Ryan Silk
+Jess Burbank
+W Neg
+AITESABW
+Jones, Tom
+25 3
+27 1
+L AFF
+WILTPWAS
+Feehan, Ka
+25 2
+25 4
+W Neg
+DARIKGKM
+Newman Eri
+26 3
+27 2
+2-1 155.00
+ 15.00
+ 76.00 8.00
+ 79.00 7.00
+Westhill Toteja/Greenber
+Westhill
+Prashant Toteja
+Josh Greenberg
+L Neg
+AMITEAJE
+Wallace Da
+26 2
+25 4
+L AFF
+DARICWRM
+Morest Cla
+24 4
+25 3
+W AFF
+WILTNKGM
+Dagan Doro
+26 1
+25 3
+1-2 151.00
+ 17.00
+ 76.00 7.00
+ 75.00 10.00
+Wilton Brewer/Xie
+Wilton
+Jeremy Brewer
+Evaline Xie
+W AFF
+WESTLSRK
+Bourdeau,
+27 1
+26 2
+W Neg
+AITERCIW
+Schechter
+27 2
+28 1
+L AFF
+AITEMCJM
+Arons, Mrs
+24 4
+28 2
+2-1 160.00
+ 12.00
+ 78.00 7.00
+ 82.00 5.00
+Wilton Cross/Jones
+Wilton
+Ryan Cross
+Rachael Jones
+W AFF
+STAMMSGH
+Feehan, Ka
+24 2
+24 1
+W Neg
+WESTBBBP
+Bourdeau,
+28 3
+29 1
+L AFF
+DARICWRM
+Shanahan,
+28 2
+27 4
+2-1 160.00
+ 13.00
+ 80.00 7.00
+ 80.00 6.00
+Wilton Deacy/Scamuffo
+Wilton
+Mairead Deacy
+Stephanie Scamuffo
+L AFF
+WESTBBBP
+Morest Cla
+25 3
+25 4
+L Neg
+STAMMSGH
+Dagan Doro
+25 3
+24 4
+L Neg
+AITERCIW
+Bourdeau,
+26 2
+24 4
+0-3 149.00
+ 20.00
+ 76.00 8.00
+ 73.00 12.00
+Wilton Gamberdell/Kaelin
+Wilton
+Gemma Gamberdell
+Jack Kaelin
+L Neg
+DARIAFWP
+Dagan Doro
+26 2
+25 4
+W AFF
+AMITIBBL
+Toteja, Mr
+27 1
+26 2
+L Neg
+AMITRJMS
+Feehan, Ka
+24 3
+24 4
+1-2 152.00
+ 16.00
+ 77.00 6.00
+ 75.00 10.00
+Wilton Jensen/Saltzman
+Wilton
+Peter Jensen
+Jacob Saltzman
+L AFF
+AMITEDAS
+Schwartz M
+26 3
+25 4
+W Neg
+DARIBLAW
+Arons, Mrs
+28 2
+29 1
+L Neg
+STAMMSGH
+Schechter
+26 3
+27 2
+1-2 161.00
+ 15.00
+ 80.00 8.00
+ 81.00 7.00
+Wilton Kaushal/Mgaloblis
+Wilton
+Neel Kaushal
+George Mgaloblishvili
+L AFF
+AITEMCJM
+Shanahan,
+23 3
+22 2
+L Neg
+WESTJGAN
+Newman Eri
+25 4
+27 1
+L Neg
+WESTPTJG
+Dagan Doro
+25 2
+25 4
+0-3 147.00
+ 16.00
+ 73.00 9.00
+ 74.00 7.00
+Wilton Wallace/Schaefer
+Wilton
+Paige Wallace
+Allie Schaefer
+W AFF
+DARIKGKM
+Litt Kenny
+28 1
+27 2
+W Neg
+WESTRSJB
+Feehan, Ka
+25 3
+26 1
+W Neg
+DARIAFWP
+Pollack Mr
+25 1
+25 2
+3-0 156.00
+ 10.00
+ 78.00 5.00
+ 78.00 5.00

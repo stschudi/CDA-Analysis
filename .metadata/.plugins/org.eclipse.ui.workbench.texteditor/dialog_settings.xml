@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="353" key="DIALOG_WIDTH"/>
+		<item value="326" key="DIALOG_Y_ORIGIN"/>
+		<item value="513" key="DIALOG_HEIGHT"/>
+		<item value="1204" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="false" key="isRegEx"/>
+		<item value="true" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="false" key="wholeword"/>
+		<item value="(tournaments)" key="selection"/>
+		<list key="findhistory">
+			<item value="(tournaments)"/>
+			<item value="(Tournament[] tournaments)"/>
+			<item value="getDebatesByEventName()"/>
+			<item value="ByEventName()"/>
+			<item value="ByEventName(tournaments)"/>
+			<item value="}"/>
+			<item value="{"/>
+			<item value=");"/>
+		</list>
+		<list key="replacehistory">
+			<item value="()"/>
+			<item value="rounds"/>
+			<item value="tournaments"/>
+			<item value=""/>
+			<item value="},"/>
+			<item value="{"/>
+			<item value="oppRankings["/>
+			<item value="Tournament[] tournaments"/>
+		</list>
+	</section>
+</section>
